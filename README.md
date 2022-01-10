@@ -18,6 +18,7 @@ Telegram PrivateAutoCaption © @Mo_Tech_YT
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
+<a [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAmmff%2Fauto-caption-bot&envs=API_HASH%2CAPP_ID%2CBOT_USERNAME%2CBUTTON%2CCAPTION%2CLINK%2CMT_BOT_TOKEN&referralCode=DREM_HAKER)</a>
 <a href="https://heroku.com/deploy?template=https://github.com/Ammff/auto-caption-bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
